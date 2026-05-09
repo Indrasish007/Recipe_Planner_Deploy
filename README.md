@@ -1,3 +1,4 @@
+# 🍽️ Recipe Planner App — [Personalized Recipe Planner](https://recipeplanner-opal.vercel.app/)
 
 # 🍽️ Recipe Planner — Your Personal Meal Planning Assistant
 
